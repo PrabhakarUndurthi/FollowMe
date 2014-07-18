@@ -9,6 +9,7 @@ gem 'rspec-rails', '2.13.1'
 gem 'guard-rspec', '2.5.0'
 gem 'spork-rails', '4.0.0'
 gem 'guard-spork', '1.5.0'
+gem 'bootstrap-sass', '2.3.2.0'
 
 group :test do
   gem 'selenium-webdriver', '2.35.1'
